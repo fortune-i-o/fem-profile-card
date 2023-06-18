@@ -7,34 +7,35 @@
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
   <link rel="stylesheet" href="assets/css/style.css">
   <title>Frontend Mentor | Profile card component</title>
+  <base target="_blank">
 </head>
 
 <body>
   <main class="card">
     <img src="assets/images/bg-pattern-card.svg" alt="" class="card__bg">
-    <img src="assets/images/image-victor.jpg" alt="" class="card__image">
+    <img src="assets/images/image-victor.jpg" alt="image of victor crest" class="card__image">
 
     <header class="card__author">
-      <h2 class="card__author-name">Victor Crest &nbsp;&nbsp;<span>26</span></h2>
+      <h1 class="card__author-name">Victor Crest &nbsp;&nbsp;<span>26</span></h1>
       <p class="card__author-location">London</p>
     </header>
 
-    <div class="card__stats">
-      <section class="card__stat">
-        <h3 class="card__stat-num">80K</h3>
-        <p class="card__stat-lead">Followers</p>
-      </section>
+    <ul class="card__stats">
+      <li class="card__stat">
+        <span class="card__stat-num">80K</span>
+        <span class="card__stat-lead">Followers</span>
+      </li>
 
-      <section class="card__stat">
-        <h3 class="card__stat-num">803K</h3>
-        <p class="card__stat-lead">Likes</p>
-      </section>
+      <li class="card__stat">
+        <span class="card__stat-num">803K</span>
+        <span class="card__stat-lead">Likes</span>
+      </li>
 
-      <section class="card__stat">
-        <h3 class="card__stat-num">1.4K</h3>
-        <p class="card__stat-lead">Photos</p>
-      </section>
-    </div>
+      <li class="card__stat">
+        <span class="card__stat-num">1.4K</span>
+        <span class="card__stat-lead">Photos</span>
+      </li>
+    </ul>
   </main>
 
   <footer class="attribution">

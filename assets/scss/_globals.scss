@@ -24,12 +24,16 @@ body {
   font-size: 1rem;
 }
 
+h1,
 h2,
 h3 {
   color: var(--clr-neutral-500);
-  font-size: 1.125rem;
 }
 
 p {
   color: var(--clr-neutral-400);
+}
+
+ul {
+  list-style: none;
 }
