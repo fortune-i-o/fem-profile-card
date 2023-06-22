@@ -26,8 +26,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- **Solution:** [Link](https://link)
-- **Live Site:** [Link](https://link)
+- **Solution:** [frontendmentor.io/solutions/profile-card-component-scss-css-flexbox-pEzheOX5EL](https://www.frontendmentor.io/solutions/profile-card-component-scss-css-flexbox-pEzheOX5EL)
+- **Live Site:** [fem-profile-card.pages.dev](https://fem-profile-card.pages.dev/)
 
 ## My process
 
